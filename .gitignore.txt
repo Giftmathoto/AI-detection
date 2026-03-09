@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# YOLO weights
+*.pt
+
+# Detection output
+runs/
+
+# Large video files
+*.avi
